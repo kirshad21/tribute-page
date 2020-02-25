@@ -5,7 +5,13 @@
         <title>Spin-off of "Challenge: Write a Poem" BY KHALID</title>
         <meta charset="utf-8">
     </head>
+  <style>
+     body {
+            background-color: rgb(237, 47, 237);
+        }
+  </style>
     <body>
+        <h1>A. R. Rahman</h1>
     <h1>My Pies!</h1>
     <P>
     I eat my pies<br>
