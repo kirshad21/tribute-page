@@ -7,7 +7,7 @@
     </head>
   <style>
      body {
-            background-color: rgb(237, 47, 200);
+            background-color: orange;
         }
       .image-medium {
                 width: 200px;
