@@ -9,6 +9,8 @@
      body {
             background-color: rgb(237, 47, 237);
         }
+      .image-medium {
+                width: 200px;
        .gold-frame {
                 border: 10px ridge rgb(255, 183, 0);
             }
