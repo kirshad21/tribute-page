@@ -11,7 +11,6 @@
         }
   </style>
     <body>
-        <h1>A. R. Rahman</h1>
     <h1>My Pies!</h1>
     <P>
     I eat my pies<br>
