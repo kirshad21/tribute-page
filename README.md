@@ -16,7 +16,7 @@
                 border: 10px ridge rgb(255, 183, 0);
             }
       body {
-      font-family:cursive;
+      font-family:fantasy;
       text-align: center;
       }
   </style>
