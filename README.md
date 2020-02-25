@@ -13,7 +13,7 @@
   </style>
     <body>
        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/A._R._Rahman.jpg" >
-    <h1>My Pies!</h1>
+    <h1>A.R Rahman</h1>
     <P>
    Allahrakka Rahman (About this soundpronunciation (help·info); born A. S. Dileep Kumar on 6 January 1967),[1] known professionally as A. R. Rahman, is an Indian composer, singer and music producer who works predominantly in Tamil and Hindi movies. His works are noted for integrating Indian classical music with electronic music, world music and traditional orchestral arrangements. Rahman also introduced 7.1 surround sound technology to South Indian films.[2] He is nicknamed "Isai Puyal" (the musical storm) and "Mozart of Madras".[3]
 
