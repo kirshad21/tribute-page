@@ -9,10 +9,10 @@
      body {
             background-color: rgb(237, 47, 237);
         }
-      .image {
-      margin-left: auto;
-      margin-right: auto;
-      }
+      #wiki-pic {
+                width: 100px;
+                float:left;
+                margin-right:6px;
   </style>
     <body>
        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/A._R._Rahman.jpg" >
