@@ -1,6 +1,10 @@
 # tribute-page
 
 <html>
+    
+    <frameset cols="25%,*,25%">
+    <frame src="frame_b.htm">
+    </frameset>
     <head>
         <title>Spin-off of "Challenge: Write a Poem" BY KHALID</title>
         <meta charset="utf-8">
