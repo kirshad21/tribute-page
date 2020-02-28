@@ -15,7 +15,7 @@
                 width: 200px;
       }
        .gold-frame {
-                border: 10px ridge rgb(255, 183, 0);
+                border: 10px ridge:RGB(255, 255, 0);
             }
       body {
       font-family:fantasy;
