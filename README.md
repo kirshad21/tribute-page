@@ -18,7 +18,7 @@
                 border: 10px ridge: MediumSeaGreen;
             }
       body {
-      font-family: cursive;
+      font-family: fantasy,cursive;
       text-align: center;
       }
   </style>
