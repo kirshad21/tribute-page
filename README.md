@@ -9,7 +9,7 @@
     </head>
   <style>
      body {
-            background-color: RGB(255, 0, 0);
+            background-color: MediumSeaGreen;
         }
       .image-medium {
                 width: 200px;
