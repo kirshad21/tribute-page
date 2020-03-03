@@ -9,13 +9,13 @@
     </head>
   <style>
      body {
-            background-color: mediumseagreen, blue;
+            background-color: Mediumseagreen;
         }
       .image-medium {
                 width: 200px;
       }
        .gold-frame {
-                border: 10px ridge: mediumseagree, blue;
+                border: 10px ridge: Mediumseagree;
             }
       body {
       font-family: fantasy,cursive;
