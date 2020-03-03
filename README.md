@@ -15,12 +15,16 @@
                 width: 200px;
       }
        .gold-frame {
-                border: 10px ridge: Mediumseagree;
+                border: 10px ridge: ;
             }
       body {
       font-family: fantasy,cursive;
       text-align: center;
       }
+    <frameset cols="20%,20%" >
+        // <frame src= "">
+        // <frame src="">
+    </frameset>
   </style>
     <body>
        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/A._R._Rahman.jpg" alt="A.R rahman" >
