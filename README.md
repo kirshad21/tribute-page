@@ -6,7 +6,7 @@
         
     <style type = "text/css">
     body {
-    background-image : url( .jpg )
+    background-image : url(https://images.theconversation.com/files/91882/original/image-20150814-2568-5he9hs.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip)
     background-size : cover;
     background-attachment : fixed;
     }
