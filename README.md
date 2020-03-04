@@ -11,7 +11,7 @@
             .gold-frame {
                 border: 10px ridge rgb(255, 183, 0);
     }
-    .content {
+    p{
      font-family : cursive;
     }
    
