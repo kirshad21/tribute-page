@@ -20,7 +20,7 @@
     
   <body>
    
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Opening_Ceremony_Hockey_World_Cup_2018_%2839%29.jpg/1280px-Opening_Ceremony_Hockey_World_Cup_2018_%2839%29.jpg" >
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Opening_Ceremony_Hockey_World_Cup_2018_%2839%29.jpg/1280px-Opening_Ceremony_Hockey_World_Cup_2018_%2839%29.jpg" style="display: black; margin-left:auto; margin-right:auto;" >
         
      <p>  A. R. Rahman, is an Indian composer, singer and music producer who works predominantly in Tamil and Hindi movies. His works are noted for integrating Indian classical music with electronic music, world music and traditional orchestral arrangements. Rahman also introduced 7.1 surround sound technology to South Indian films. He is nicknamed "Isai Puyal" (the musical storm) and "Mozart of Madras".
 
