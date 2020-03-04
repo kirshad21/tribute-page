@@ -4,7 +4,7 @@
    <head>
         <title>Spin-off of "Challenge: "About A. R. Rahman" BY KHALID</title>
         
-    <style type = "text/css">
+    <style >
     body {
     background-color : red;
     }
@@ -12,19 +12,17 @@
                 border: 10px ridge rgb(255, 183, 0);
     }
     .content {
-    
-    font-family : cursive;
+     font-family : cursive;
     }
-    p{
-    font-size:25px;
-    color:black;
-    }
+   
     
     </style>
+    
   <body>
-   <img  class = "https://upload.wikimedia.org/wikipedia/commons/0/07/A._R._Rahman.jpg">
-    <div class= "content">
-       <p> Allah Rakha Rahman known professionally as A. R. Rahman, is an Indian composer, singer and music producer who works predominantly in Tamil and Hindi movies. His works are noted for integrating Indian classical music with electronic music, world music and traditional orchestral arrangements. Rahman also introduced 7.1 surround sound technology to South Indian films. He is nicknamed "Isai Puyal" (the musical storm) and "Mozart of Madras".
+   
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Opening_Ceremony_Hockey_World_Cup_2018_%2839%29.jpg/1280px-Opening_Ceremony_Hockey_World_Cup_2018_%2839%29.jpg" >
+        
+     <p>  A. R. Rahman, is an Indian composer, singer and music producer who works predominantly in Tamil and Hindi movies. His works are noted for integrating Indian classical music with electronic music, world music and traditional orchestral arrangements. Rahman also introduced 7.1 surround sound technology to South Indian films. He is nicknamed "Isai Puyal" (the musical storm) and "Mozart of Madras".
 
 Rahman initially composed scores for different documentaries and jingles for advertisements and Indian television channels. With an his in-house studio Panchathan Record Inn, Rahman's film-scoring career began during the early 1990s with the Tamil film Roja. Rahman followed this with successful scores and songs for Tamil–language films for the Chennai film industry, including Ratnam's politically-charged Bombay, the urban Kadhalan, Thiruda Thiruda and S. Shankar's debut film Gentleman.
 
