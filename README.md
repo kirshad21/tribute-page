@@ -6,15 +6,13 @@
         
     <style type = "text/css">
     body {
-    background-color : RED
-    background-size : cover;
-    background-attachment : fixed;
+    background-color : red;
+    }
+            .gold-frame {
+                border: 10px ridge rgb(255, 183, 0);
     }
     .content {
-    background : Mediumseagreen
-    width : 50%;
-    padding : 40px;
-    margin : 100px auto;
+    
     font-family : cursive;
     }
     p{
@@ -24,6 +22,7 @@
     
     </style>
   <body>
+   <img  class = "https://upload.wikimedia.org/wikipedia/commons/0/07/A._R._Rahman.jpg">
     <div class= "content">
        <p> Allah Rakha Rahman known professionally as A. R. Rahman, is an Indian composer, singer and music producer who works predominantly in Tamil and Hindi movies. His works are noted for integrating Indian classical music with electronic music, world music and traditional orchestral arrangements. Rahman also introduced 7.1 surround sound technology to South Indian films. He is nicknamed "Isai Puyal" (the musical storm) and "Mozart of Madras".
 
