@@ -31,10 +31,11 @@ Rahman's score for his first Hollywood film, the comedy Couples Retreat (2009), 
 Among Rahman's awards are six National Film Awards, two Academy Awards, two Grammy Awards, a BAFTA Award, a Golden Globe Award, fifteen Filmfare Awards and seventeen Filmfare Awards South. In 2010 the Indian government awarded him the Padma Bhushan, the nation's third-highest civilian award. In 2009, Rahman was included on the Time 100 list of the world's most influential people. The UK-based world-music magazine Songlines named him one of "Tomorrow's World Music Icons" in August 2011.
 
     </p>
-       </div>
+      
       
       
    
     </body>
     <h2>by Khalid</h2>
-</HTML>
+
+</html>
