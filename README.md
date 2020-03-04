@@ -6,7 +6,7 @@
         
     <style >
     body {
-    background-color : red;
+    background-color : orange;
     }
             .gold-frame {
                 border: 10px ridge rgb(255, 183, 0);
