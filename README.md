@@ -1,41 +1,57 @@
-# tribute-page
-
+<!DOCTYPE html>
 <html>
    <head>
-        <title>Spin-off of "Challenge: "About A. R. Rahman" BY KHALID</title>
-        
-    <style >
-    body {
-    background-color : orange;
-    }
-            .gold-frame {
-                border: 10px ridge rgb(255, 183, 0);
-    }
-    p{
-     font-family : cursive;
-    }
+      <title>DRAGON BALL GAMES</title>
+      <meta name="viewport" content="width=device=width, initial-scale=0.2">
+       <link herf = "css/styles.css" rel="stylesheet" type="text/css" />
+   </head>
    
-    
-    </style>
-    
-  <body>
+   <body>
+    <header>
+       <div class="flex">
+       <div class="logo">
+          <a herf ="a"><img src="https://image.winudf.com/v2/image/Y29tLm1qZGV2LkRyYWdvbkJhbGxaU3VwZXJfc2NyZWVuXzJfMTUzMTk1MzMzNV8wOTc/screen-2.jpg?h=710&fakeurl=1&type=.jpg" /> </a>
+          </div>
+          </div>
+           <nav>
+              <button id = "nav-toggle" class="hamburger-menu" >
+                 <span class="strip"></span>
+                 <span class="strip"></span>
+                 <span class="strip"></span>
+             </button>
+              <ul id = "nav-menu-container"> 
+                 <li> <a herf="#">Home</a> </li>
+                 <li> <a herf="#">games</a> </li>
+                 <li> <a herf="#">images</a> </li>
+                 <li> <a herf="#">characters</a> </li>
+                 <li> <a herf="#">blogs</a> </li>
+              </ul>
+              </nav>
+       <a herf="#" id="login-register-button"> Login /Register</a>
+          </div>
+   </header>
+   <main>
+   <section id="hero-image">
+      <div class="hero-marketing-text>
+                  <h1>Best <span>games</span><span>OUT</span>there</h1>
+                  <h5>Play The nation's Favourite Arcade, Kids, Puzzle & Action Games. Click Now, Search Games! Free Fun Kids Games to Boost Kid's Memory, Attention, Skills & Agility. Start Playing! No Registration Needed. 100s of Game Categories. Popular Free Online Games.</h5>
+                  <button>Read More</button>
+                  </div>
+                  </section> 
+                  <section id="latest-news">
+                          <div class="flex">
+                                           <h5>latest news</h5>
+                                           <div id="latest-news-container">
+                                              <div class="latest-news-items">
+                                                                            <span class="batch new"> New </span>
+                                                                            <span class="latest-news-text">That takes us back to the most anticipated release date for Dragon Ball Super Season 2, and that's Spring 2020. We think Dragon Ball Super's anime return will be announced at this year's Jump Festa which is just a few months away now. </span>
+                                           
+                                           </div>                                                            
+                                           </div>
+                                           </div>                                
+                           </section>
+           
+   </main>
+   </body>
+   </html>
    
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Opening_Ceremony_Hockey_World_Cup_2018_%2839%29.jpg/1280px-Opening_Ceremony_Hockey_World_Cup_2018_%2839%29.jpg" style="display: black; margin-left:auto; margin-right:auto;" >
-        
-     <p>  A. R. Rahman, is an Indian composer, singer and music producer who works predominantly in Tamil and Hindi movies. His works are noted for integrating Indian classical music with electronic music, world music and traditional orchestral arrangements. Rahman also introduced 7.1 surround sound technology to South Indian films. He is nicknamed "Isai Puyal" (the musical storm) and "Mozart of Madras".
-
-Rahman initially composed scores for different documentaries and jingles for advertisements and Indian television channels. With an his in-house studio Panchathan Record Inn, Rahman's film-scoring career began during the early 1990s with the Tamil film Roja. Rahman followed this with successful scores and songs for Tamil–language films for the Chennai film industry, including Ratnam's politically-charged Bombay, the urban Kadhalan, Thiruda Thiruda and S. Shankar's debut film Gentleman.
-
-Rahman's score for his first Hollywood film, the comedy Couples Retreat (2009), won the BMI Award for Best Score. His music for Slumdog Millionaire (2008) earned him Best Original Score and Best Original Song at the 81st Academy Awards. Rahman has also become a humanitarian and philanthropist, donating and raising money for a number of causes and charities. In 2017, he made his debut as a director and writer for the film Le Musk.
-
-Among Rahman's awards are six National Film Awards, two Academy Awards, two Grammy Awards, a BAFTA Award, a Golden Globe Award, fifteen Filmfare Awards and seventeen Filmfare Awards South. In 2010 the Indian government awarded him the Padma Bhushan, the nation's third-highest civilian award. In 2009, Rahman was included on the Time 100 list of the world's most influential people. The UK-based world-music magazine Songlines named him one of "Tomorrow's World Music Icons" in August 2011.
-
-    </p>
-      
-      
-      
-   
-    </body>
-    <h2>by Khalid</h2>
-
-</html>
