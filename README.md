@@ -29,15 +29,15 @@
               </ul>
               </nav>
        <a herf="#" id="login-register-button"> Login /Register</a>
-          </div>
+          
    </header>
    <main>
    <section id="hero-image">
-      <div class="hero-marketing-text>
+      
                   <h1>Best <span>games</span><span>OUT</span>there</h1>
                   <h5>Play The nation's Favourite Arcade, Kids, Puzzle & Action Games. Click Now, Search Games! Free Fun Kids Games to Boost Kid's Memory, Attention, Skills & Agility. Start Playing! No Registration Needed. 100s of Game Categories. Popular Free Online Games.</h5>
                   <button>Read More</button>
-                  </div>
+              
                   </section> 
                   <section id="latest-news">
                           <div class="flex">
