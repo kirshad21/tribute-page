@@ -10,7 +10,8 @@
     <header>
        <div class="flex">
        <div class="logo">
-          <a herf ="a"><img src="https://image.winudf.com/v2/image/Y29tLm1qZGV2LkRyYWdvbkJhbGxaU3VwZXJfc2NyZWVuXzJfMTUzMTk1MzMzNV8wOTc/screen-2.jpg?h=710&fakeurl=1&type=.jpg" /> </a>
+          <a herf ="a">
+             <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.tmimgcdn.com%2Ftemplates%2F543%2Fscr%2Fgame%2520kids%2520logo.jpg&imgrefurl=https%3A%2F%2Fwww.templatemonster.com%2Flogo-templates%2Fgeek-game-kids-logo-template-logo-template-65517.html&tbnid=vnSJ_vm1adSm6M&vet=12ahUKEwi71pKahIfpAhUJZq0KHbQQAVgQMygPegUIARDJAg..i&docid=pBYmRmlQwXkreM&w=965&h=600&q=game%20logo&ved=2ahUKEwi71pKahIfpAhUJZq0KHbQQAVgQMygPegUIARDJAg" /> </a>
           </div>
           </div>
            <nav>
