@@ -29,8 +29,8 @@
   <script>
 slideShow(document.getElementById("slideshow"));
     </script>
-         </body>
-  
+         
+  </body>
   <nav>
               <button id = "nav-toggle" class="hamburger-menu" >
                  <span class="strip"></span>
@@ -70,6 +70,6 @@ slideShow(document.getElementById("slideshow"));
                            </section>
            
    </main>
- 
+ </body>
    </html>
    
