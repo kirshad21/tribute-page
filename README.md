@@ -1,92 +1,46 @@
-
-<html>
-   <head>
-      <title>DRAGON BALL GAMES</title>
-      <meta name="viewport" content="width=device=width, initial-scale=0.2">
-       <link herf = "css/styles.css" rel="stylesheet" type="text/css" />
-   </head>
-   
-   <body>
-    <header>
-       <div class="flex">
-       <div class="logo">
-          <a herf ="a">
-      
-  </body>
-     <body> 
-   <div id="slideshow">
-             <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsteamcdn-a.akamaihd.net%2Fsteam%2Fapps%2F851850%2Fheader.jpg%3Ft%3D1588110259&imgrefurl=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F851850%2FDRAGON_BALL_Z_KAKAROT%2F&tbnid=Mr4LoefzGP7HEM&vet=12ahUKEwjB2qft9aTpAhUNNK0KHUNACPkQMygAegUIARDeAQ..i&docid=s1obpE87fvuYPM&w=460&h=215&q=dragon%20ball%20z&ved=2ahUKEwjB2qft9aTpAhUNNK0KHUNACPkQMygAegUIARDeAQ" alt="superball" />
-             <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fsonic%2Fimages%2F2%2F2d%2FTSR_Sonic.png%2Frevision%2Flatest%3Fcb%3D20191020043348&imgrefurl=https%3A%2F%2Fsonic.fandom.com%2Fwiki%2FSonic_the_Hedgehog&tbnid=Ect00hreEmlsrM&vet=12ahUKEwjbsPug9qTpAhUV0qwKHQZBBvoQMygDegUIARDmAQ..i&docid=ldudTD5hzgz5-M&w=818&h=1277&q=sonic&ved=2ahUKEwjbsPug9qTpAhUV0qwKHQZBBvoQMygDegUIARDmAQ" alt="sonic" />
-             <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F2%2F21%2FWeb_of_Spider-Man_Vol_1_129-1.png%2F250px-Web_of_Spider-Man_Vol_1_129-1.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpider-Man&tbnid=8ZSBk5dl-9sduM&vet=12ahUKEwiO1ZfW9qTpAhUJaKwKHbz4AzkQMygBegUIARDcAQ..i&docid=ZK3CqqRY00jQFM&w=250&h=333&q=spiderman&ved=2ahUKEwiO1ZfW9qTpAhUJaKwKHbz4AzkQMygBegUIARDcAQ" alt="spiderman" />
-             
+<HTML>
+<div class="container">
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">Dr. Norman Borlaug</h1>
+        <h2 class="text-center"><em>The man who saved a billion lives</em></h2>
+        <div class="thumbnail"><img src="https://c2.staticflickr.com/4/3689/10613180113_fdf7bcd316_b.jpg">
+          <div class="caption text-center">Dr. Norman Borlaug, third from left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.</div>
+        </div>
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <h3>Here's a time line of Dr. Borlaug's life:</h3>
+          <ul>
+            <li><strong>1914</strong> - Born in Cresco, Iowa</li>
+            <li><strong>1933</strong> - Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration"</li>
+            <li><strong>1935</strong> - Has to stop school and save up more money. Works in the Civilian Conservation Corps, helping starving Americans. "I saw how food changed them", he said. "All of this left scars on me."</li>
+            <li><strong>1937</strong> - Finishes university and takes a job in the US Forestry Service</li>        
+            <li><strong>1938</strong> - Marries wife of 69 years Margret Gibson. Gets laid off due to budget cuts. Inspired by Elvin Charles Stakman, he returns to school study under Stakman, who teaches him about breeding pest-resistent plants.</li>        
+            <li><strong>1941</strong> - Tries to enroll in the military after the Pearl Harbor attack, but is rejected. Instead, the military asked his lab to work on waterproof glue, DDT to control malaria, disenfectants, and other applied science.</li>      
+            <li><strong>1942</strong> - Receives a Ph.D. in Genetics and Plant Pathology</li>        
+            <li><strong>1944</strong> - Rejects a 100% salary increase from Dupont, leaves behind his pregnant wife, and flies to Mexico to head a new plant pathology program. Over the next 16 years, his team breeds 6,000 different strains of disease resistent wheat - including different varieties for each major climate on Earth.</li>
+            <li><strong>1945</strong> - Discovers a way to grown wheat twice each season, doubling wheat yields</li>    
+            <li><strong>1953</strong> - crosses a short, sturdy dwarf breed of wheat with a high-yeidling American breed, creating a strain that responds well to fertalizer. It goes on to provide 95% of Mexico's wheat.</li>        
+            <li><strong>1962</strong> - Visits Delhi and brings his high-yielding strains of wheat to the Indian subcontinent in time to help mitigate mass starvation due to a rapidly expanding population</li>        
+            <li><strong>1970</strong> - receives the Nobel Peace Prize</li>
+            <li><strong>1983</strong> - helps seven African countries dramatically increase their maize and sorghum yields</li>
+            <li><strong>1984</strong> - becomes a distinguished professor at Texas A&M University</li>
+            <li><strong>2005</strong> - states "we will have to double the world food supply by 2050." Argues that genetically modified crops are the only way we can meet the demand, as we run out of arable land. Says that GM crops  are not inherently dangerous because "we've been genetically modifying plants and animals for a long time. Long before we called it science, people were selecting the best breeds."</li>
+            <li><strong>2009</strong> - dies at the age of 95.</li>      
+          </ul>
+          <blockquote>
+            <p>"Borlaug's life and achievement are testimony to the far-reaching contribution that one man's towering intellect, persistence and scientific vision can make to human peace and progress."</p>
+            <footer><cite>Indian Prime Minister Manmohan Singh</cite></footer>
+          </blockquote>
+          <h3>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Wikipedia entry</a>.</h3>
+        </div>
+      </div>
+    </div> 
   </div>
-               
-  </div>
-          </div>
-  <script>
-  var slideShow = function(container) {
-    this.images = [];
-    this.curImage = 0;
-    for (i = 0; i < container.childElementCount; i++) {
-        this.images.push(container.children[i]);
-        this.images[i].style.display = "none";
- }
-     // Handle going to to the next slide
-    var nextSlide = function() {
-        for (var i = 0; i < this.images.length; i++) {
-            this.images[i].style.display = "none";
-        }
-        this.images[this.curImage].style.display = "block";
-        this.curImage++;
-        if (this.curImage >= this.images.length) {
-            this.curImage = 0;
-        }
-        window.setTimeout(nextSlide.bind(this), 1000);
-  };
-  
-slideShow(document.getElementById("slideshow"));
-    </script>
-         
-  </body>
-  <nav>
-              <button id = "nav-toggle" class="hamburger-menu" >
-                 <span class="strip"></span>
-                 <span class="strip"></span>
-                 <span class="strip"></span>
-             </button>
-              <ul id = "nav-menu-container"> 
-                 <li> <a herf="#">Home</a> </li>
-                 <li> <a herf="#">games</a> </li>
-                 <li> <a herf="#">images</a> </li>
-                 <li> <a herf="#">characters</a> </li>
-                 <li> <a herf="#">blogs</a> </li>
-              </ul>
-              </nav>
-       <a herf="#" id="login-register-button"> Login /Register</a>
-          
-   </header>
-   <main>
-   <section id="hero-image">
-      
-   <h1>Best <span>games</span><span>OUT</span>there</h1>
-                  <h5>Play The nation's Favourite Arcade, Kids, Puzzle & Action Games. Click Now, Search Games! Free Fun Kids Games to Boost Kid's Memory, Attention, Skills & Agility. Start Playing! No Registration Needed. 100s of Game Categories. Popular Free Online Games.</h5>
-                  <button>Read More</button>
-              
-  </section> 
-                  <section id="latest-news">
-                          <div class="flex">
-                                           <h5>latest news</h5>
-                                           <div id="latest-news-container">
-                                              <div class="latest-news-items">
-                                                                            <span class="batch new"> New </span>
-                                                                            <span class="latest-news-text">That takes us back to the most anticipated release date for Dragon Ball Super Season 2, and that's Spring 2020. We think Dragon Ball Super's anime return will be announced at this year's Jump Festa which is just a few months away now. </span>
-                                           
-  </div>                                                            
-                                           </div>
-                                           </div>                                
-                           </section>
-           
-   </main>
- </body>
-   </html>
+  <footer class="text-center">
+    <hr>
+    <p>Written and coded by <a href="https://www.freecodecamp.com/quincylarson" target="_blank">Quincy Larson</a>.</p>
+  </footer>  
+</div>  
+</HTML>
    
