@@ -15,7 +15,7 @@
           <blockquote>
             <footer><cite>Indian Prime Minister Manmohan Singh</cite></footer>
           </blockquote>
-          <h3>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Wikipedia entry</a>.</h3>
+          <h3>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam" target="_blank">Wikipedia entry</a>.</h3>
         </div>
       </div>
     </div> 
