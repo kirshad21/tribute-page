@@ -5,7 +5,7 @@
       <div class="col-xs-12">
         <h1 class="text-center">Dr. A. P. J. Abdul Kalam</h1>
         <h2 class="text-center"><em>The missile man of India</em></h2>
-        <div class="thumbnail"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A._P._J._Abdul_Kalam_in_2008.jpg/375px-A._P._J._Abdul_Kalam_in_2008.jpg" style="width:100%">
+        <div class="thumbnail"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A._P._J._Abdul_Kalam_in_2008.jpg/375px-A._P._J._Abdul_Kalam_in_2008.jpg" style="width:50%" class="center">
            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
           <h3>here is a bio about A.P.J Abdul Kalam</h3>
           <ul>
