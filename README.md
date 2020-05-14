@@ -19,9 +19,7 @@
         <img src="https://www.kasandbox.org/programming-images/animals/cat.png" alt="Cat" />
         <img src="https://www.kasandbox.org/programming-images/animals/crocodiles.png" alt="Crocodiles" />
         <img src="https://www.kasandbox.org/programming-images/animals/fox.png" alt="Fox" />
-        
-    </div>
-
+        </div>
     <script>
 var slideShow = function(container) {
     this.images = [];
@@ -30,18 +28,18 @@ var slideShow = function(container) {
         this.images.push(container.children[i]);
         this.images[i].style.display = "none";
     }
-   // Handle going to to the next slide
-    var nextSlide = function() {
-        for (var i = 0; i < this.images.length; i++) {
-            this.images[i].style.display = "none";
+ // Handle going to to the next slide
+ var nextSlide = function() {
+ for (var i = 0; i < this.images.length; i++) {
+ this.images[i].style.display = "none";
         }
-        this.images[this.curImage].style.display = "block";
-        this.curImage++;
-        if (this.curImage >= this.images.length) {
-            this.curImage = 0;
-        }
-        window.setTimeout(nextSlide.bind(this), 1000);
-    };
+ this.images[this.curImage].style.display = "block";
+ this.curImage++;
+ if (this.curImage >= this.images.length) {
+ this.curImage = 0;
+  }
+ window.setTimeout(nextSlide.bind(this), 1000);
+ };
           <h3>here is a bio about A.P.J Abdul Kalam</h3>
           <ul>
             <li>Avul Pakir Jainulabdeen Abdul Kalam was born on 15 October 1931 to a Tamil Muslim family in the pilgrimage centre of Rameswaram on Pamban Island, then in the Madras Presidency and now in the State of Tamil Nadu. His father Jainulabdeen was a boat owner and imam of a local mosque; his mother Ashiamma was a housewife. His father owned a ferry that took Hindu pilgrims back and forth between Rameswaram and the now uninhabited Dhanushkodi. Kalam was the youngest of four brothers and one sister in his family. His ancestors had been wealthy traders and landowners, with numerous properties and large tracts of land. Their business had involved trading groceries between the mainland and the island and to and from Sri Lanka, as well as ferrying pilgrims between the mainland and Pamban. As a result, the family acquired the title of "Mara Kalam Iyakkivar" (wooden boat steerers), which over the years became shortened to "Marakier." With the opening of the Pamban Bridge to the mainland in 1914, however, the businesses failed and the family fortune and properties were lost over time, apart from the ancestral home. By his early childhood, Kalam's family had become poor; at an early age, he sold newspapers to supplement his family's income.</li> 
