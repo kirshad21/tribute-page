@@ -7,11 +7,10 @@
         <h2 class="text-center"><em>The missile man of India</em></h2>
         <body>
         <div id="slideshow">
-        <img src="https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png" alt="Rainbow lorakeets" />
-        <img src="https://www.kasandbox.org/programming-images/animals/butterfly.png"alt="Butterfly" />
-        <img src="https://www.kasandbox.org/programming-images/animals/cat.png" alt="Cat" />
-        <img src="https://www.kasandbox.org/programming-images/animals/crocodiles.png" alt="Crocodiles" />
-        <img src="https://www.kasandbox.org/programming-images/animals/fox.png" alt="Fox" />
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6e%2FA._P._J._Abdul_Kalam.jpg&imgrefurl=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FA._P._J._Abdul_Kalam&tbnid=nHKR4kJ9cL4-UM&vet=12ahUKEwjt2LTmkbLpAhWL_awKHZK4D1kQMygBegUIARCcAg..i&docid=H6MA7aIDmOkkpM&w=2497&h=2953&q=apj%20abdul%20kalam&ved=2ahUKEwjt2LTmkbLpAhWL_awKHZK4D1kQMygBegUIARCcAg" alt="Rainbow lorakeets" />
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F81r70xq%252BjNL._SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FLove-Abdul-Kalam-Inspirational-Motivational%2Fdp%2FB01MS4VDJ4&tbnid=Dvpr9ua0ZXDnyM&vet=12ahUKEwjt2LTmkbLpAhWL_awKHZK4D1kQMygSegUIARC-Ag..i&docid=jbvBZz88CF56vM&w=1500&h=1000&q=apj%20abdul%20kalam&ved=2ahUKEwjt2LTmkbLpAhWL_awKHZK4D1kQMygSegUIARC-Ag" alt="Butterfly" />
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F41e8clnHXmL._SX332_BO1%2C204%2C203%2C200_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FDr-P-J-Abdul-Kalam-Biography%2Fdp%2F8184304951&tbnid=8_JB0eUta9Q92M&vet=12ahUKEwjt2LTmkbLpAhWL_awKHZK4D1kQMygXegQIARBe..i&docid=LEDiS7KAsCXNrM&w=334&h=499&q=apj%20abdul%20kalam&ved=2ahUKEwjt2LTmkbLpAhWL_awKHZK4D1kQMygXegQIARBe" alt="Cat" />
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fnez4Pd3aJJA%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dnez4Pd3aJJA&tbnid=9CS3PfckpVoQZM&vet=12ahUKEwi-rfSPkrLpAhUKUKwKHezgAl0QMygBegUIARCJAg..i&docid=l39YL9hEVZVDgM&w=1280&h=720&q=apj%20abdul%20kalam&hl=en&ved=2ahUKEwi-rfSPkrLpAhUKUKwKHezgAl0QMygBegUIARCJAg" alt="Crocodiles" />
         </div>
     <script>
 var slideShow = function(container) {
