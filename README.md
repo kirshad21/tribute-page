@@ -19,20 +19,15 @@
   <img class="mySlides" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheinterviewportal.com%2F2019%2F09%2F23%2Fpresident-a-p-j-abdul-kalam-postgraduate-fellowship%2F&psig=AOvVaw18k5tGWFREbEhA3KCUPANH&ust=1589483902642000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjWzNHIsekCFQAAAAAdAAAAABAO" style="width:100%">
   <img class="mySlides" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FLove-Abdul-Kalam-Inspirational-Motivational%2Fdp%2FB01MS4VDJ4&psig=AOvVaw18k5tGWFREbEhA3KCUPANH&ust=1589483902642000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjWzNHIsekCFQAAAAAdAAAAABAU" style="width:100%">
   <img class="mySlides" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiatoday.in%2Fscience%2Fstory%2Fchandrayaan-2-what-apj-abdul-kalam-advised-isro-nasa-india-moon-mission-1568128-2019-07-13&psig=AOvVaw18k5tGWFREbEhA3KCUPANH&ust=1589483902642000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjWzNHIsekCFQAAAAAdAAAAABAa" style="width:100%">
- 
-
-  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+ <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
+     </div>
+        <script>
+          var slideIndex = 1;
+          showDivs(slideIndex);
+           function plusDivs(n) {
+           showDivs(slideIndex += n);
 }
-
 function showDivs(n) {
   var i;
   var x = document.getElementsByClassName("mySlides");
