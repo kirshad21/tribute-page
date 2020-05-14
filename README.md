@@ -7,9 +7,9 @@
         <h2 class="text-center"><em>The missile man of India</em></h2>
         <body>
         <div id="slideshow">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/APJAbdulKalam.jpg" alt="Butterfly" />
-        <img src="https://i.ndtvimg.com/i/2016-12/apj-abdul-kalam_650x400_51481193286.jpg?ver-20200504.16" alt="Cat" />
-        <img src="https://live.staticflickr.com/4330/35392500163_b3f88b1a7c_b.jpg" alt="Crocodiles" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/APJAbdulKalam.jpg" style="width:50%" alt="Butterfly" />
+        <img src="https://i.ndtvimg.com/i/2016-12/apj-abdul-kalam_650x400_51481193286.jpg?ver-20200504.16" style="width:50%" alt="Cat" />
+        <img src="https://live.staticflickr.com/4330/35392500163_b3f88b1a7c_b.jpg" style="width:50%" alt="Crocodiles" />
         </div>
     <script>
 var slideShow = function(container) {
