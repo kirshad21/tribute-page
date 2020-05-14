@@ -5,6 +5,7 @@
       <div class="col-xs-12">
         <h1 class="text-center">Dr. A. P. J. Abdul Kalam</h1>
         <h2 class="text-center"><em>The missile man of India</em></h2>
+       <style>
         img {
   display: block;
   margin-left: auto;
