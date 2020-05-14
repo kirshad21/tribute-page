@@ -57,7 +57,7 @@ function showDivs(n) {
   </div>
   <footer class="text-center">
     <hr>
-    <p>Written and coded by <a href="https://www.freecodecamp.com/quincylarson" target="_blank">Quincy Larson</a>.</p>
+    <p>Written and coded by <a href="https://www.khanacademy.org/profile/kaid_570448974466501530072662/assignments/teacher/kaid_166595453230873217678480/class/5424453028511744" target="_blank">Khalid Irshad</a>.</p>
   </footer>  
 </div>  
 </HTML>
